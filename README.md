@@ -4,7 +4,7 @@ Syntax is an application that allows developers from all over the world find eac
 
 [Heroku URL](https://syntax-uofu.herokuapp.com/)
 
-![syntax](https://user-images.githubusercontent.com/89046934/155448985-8306ed86-f4bb-4fea-a934-91fe7fdcbc87.jpg)
+![heroku](https://user-images.githubusercontent.com/89046934/155449306-97fbc5ab-c871-434c-8cba-a9fa94ecd9da.jpg)
 
 
 ## Contribution
